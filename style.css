@@ -1,0 +1,66 @@
+.center {
+    text-align: center;
+}
+.text {
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.mazda{
+
+
+width: 600px;
+height: 300px;
+border-top-left-radius: 50px;
+border-bottom-right-radius: 50px;
+
+
+}
+
+header{margin-bottom: 200px;}
+
+
+section{display: flex;
+justify-content: space-between;
+width: 1100px;
+margin: 0 auto;}
+
+article{display: flex;
+    justify-content: space-between;
+    width: 800px;
+    margin: 0 auto;}
+    
+
+.img{
+    width: 640px;
+    height: 426px;
+   
+}
+.kart{padding: 10px;}
+span {
+    text-shadow:3px 5px 3px #B7A7AE;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+body {
+    background-image: linear-gradient(#E3C515,#4B2D9F,#EE51B1,#A59CD3);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+li:hover {
+  font-size: 20px;
+  transition: 3s;
+}
+li{
+    transition: 3s;
+}
